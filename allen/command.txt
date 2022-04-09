@@ -1,3 +1,0 @@
-1649505161
-give_file**C:/Users/allen/Desktop/subHarmonic.pdf
-rename**C:/Users/allen/Desktop/s.txt**C:/Users/allen/Desktop/stext.txt
