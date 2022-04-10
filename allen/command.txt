@@ -1,4 +1,2 @@
-任務3
+任務4
 give_file**C:/Users/allen/Desktop/data
-remove**C:/Users/allen/Desktop/Coronavirus-free-high-quality-png-image-no-8.png
-copy**C:/Users/allen/Desktop/n.txt**C:/Users/allen/Desktop/get2/stylesheets/n.txt
