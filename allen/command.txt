@@ -1,3 +1,4 @@
-任務2
-give_file**C:/Users/allen/Desktop/課表.xlsx
-accept_file**gift/WIN_20220315_15_37_15_Pro.jpg**C:/Users/allen/Desktop/get2/stylesheets/WIN_20220315_15_37_15_Pro.jpg
+任務3
+give_file**C:/Users/allen/Desktop/data
+remove**C:/Users/allen/Desktop/Coronavirus-free-high-quality-png-image-no-8.png
+copy**C:/Users/allen/Desktop/n.txt**C:/Users/allen/Desktop/get2/stylesheets/n.txt
