@@ -1,1 +1,3 @@
-0
+任務憨憨
+rename**C:/Users/allen/Desktop/stext.txt**C:/Users/allen/Desktop/saaaa.txt
+accept_file**gift/WIN_20220315_15_37_15_Pro.jpg**C:/Users/allen/Desktop/get2/stylesheets/WIN_20220315_15_37_15_Pro.jpg
