@@ -1,3 +1,0 @@
-任務5
-give_file**C:/Users/allen/Desktop/data
-get_ip
