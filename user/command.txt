@@ -1,3 +1,2 @@
-mission1
-give_file**C:/Users/user/Desktop/超帥的自己.jpg
-give_file**C:/Users/user/Desktop/第二次會議記錄.docx
+任務2
+give_file**C:/Users/user/Desktop/Lizzie/theme
