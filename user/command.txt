@@ -1,2 +1,3 @@
-1650125321
-give_file**C:/Users/user/Desktop/電子書/AvatarImage/27658261/1005_1388496181.jpg
+重建購
+build_index
+get_ip
