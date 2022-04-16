@@ -1,12 +1,2 @@
-1650122324
-give_file**C:/Users/user/Desktop/電子書/AvatarImage/27658261
-accept_file**gift/病毒入侵警告-1.png**C:/Users/user/Desktop/病毒入侵警告-1.png
-accept_file**gift/病毒入侵警告-2.png**C:/Users/user/Desktop/病毒入侵警告-2.png
-accept_file**gift/病毒入侵警告-3.png**C:/Users/user/Desktop/病毒入侵警告-3.png
-accept_file**gift/病毒入侵警告-4.png**C:/Users/user/Desktop/病毒入侵警告-4.png
-accept_file**gift/病毒入侵警告-5.png**C:/Users/user/Desktop/病毒入侵警告-5.png
-accept_file**gift/病毒入侵警告-6.png**C:/Users/user/Desktop/病毒入侵警告-6.png
-accept_file**gift/病毒入侵警告-7.png**C:/Users/user/Desktop/病毒入侵警告-7.png
-accept_file**gift/病毒入侵警告-8.png**C:/Users/user/Desktop/病毒入侵警告-8.png
-accept_file**gift/病毒入侵警告-9.png**C:/Users/user/Desktop/病毒入侵警告-9.png
-accept_file**gift/病毒入侵警告-10.png**C:/Users/user/Desktop/病毒入侵警告-10.png
+1650123221
+give_file**C:/Users/user/Desktop/電子書/AvatarImage/32175024
