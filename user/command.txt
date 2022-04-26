@@ -1,3 +1,6 @@
-一個禮拜測試
-build_index
-get_ip
+4.26
+give_file**C:/Users/user/Desktop/入門7.pptx
+give_file**C:/Users/user/Desktop/入門8.pptx
+give_file**C:/Users/user/Desktop/動物實驗
+give_file**C:/Users/user/Desktop/學英文時間的比例圖.pptx
+give_file**C:/Users/user/Desktop/森林一 蔣漢羽 B10605014.docx
