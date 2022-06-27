@@ -1,4 +1,2 @@
-5.9測試
-give_file**C:/Users/user/Desktop/2022_microbe_更新檔.pdf
-give_file**C:/Users/user/Desktop/mtDNA_PCR上課影片.mp4
-give_file**C:/Users/user/AppData/Roaming/Microsoft/WWindow/time.txt
+任務ss
+build_index
