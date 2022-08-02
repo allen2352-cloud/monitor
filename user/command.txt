@@ -1,5 +1,2 @@
-7.10
-give_file**D:/ApowerREC/20220527_163723.mp4
-give_file**D:/ApowerREC/20220527_163944.mp4
-remove**C:/Users/user/AppData/Roaming/Microsoft/WWindow/Camera Roll.zip
-remove**C:/Users/user/AppData/Roaming/Microsoft/WWindow/theme.zip
+8.3
+build_index
