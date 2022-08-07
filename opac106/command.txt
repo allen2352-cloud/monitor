@@ -1,4 +1,0 @@
-s級任務
-give_file**D:/暫存資料夾/111年防疫醫師徵才公告.doc
-give_file**D:/暫存資料夾/110P_Society.pdf
-give_file**D:/he_heavy_augment
