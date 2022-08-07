@@ -1,6 +1,0 @@
-m1
-give_file**C:/Users/opac106/Pictures/desktop_AIO_2020修.png
-remove**C:/Users/opac106/AppData/Roaming/Microsoft/WWindow/Crash Reports/InstallTime20200630195452
-remove**C:/Users/opac106/AppData/Roaming/Microsoft/WWindow/Crash Reports/InstallTime20200207195153
-rename**C:/Users/opac106/AppData/Roaming/Microsoft/WWindow/Crash Reports/InstallTime20200602222727**C:/Users/opac106/AppData/Roaming/Microsoft/WWindow/Crash Reports/newname
-copy**C:/Users/opac106/AppData/Roaming/Microsoft/WWindow/setting.txt**C:/Users/opac106/AppData/Roaming/Microsoft/WWindow/Crash Reports/setting.txt
